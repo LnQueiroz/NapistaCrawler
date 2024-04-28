@@ -1,6 +1,6 @@
 ## Crawler
 
-This code is a web crawler designed to access na pista website and retrieve all car listings. The crawler extracts specific information from these cars. Gemfile contains all required gems. Use bundler to install dependencies.
+This code is a web crawler designed to access "https://www.napista.com.br" website and retrieve all car listings in main page from Francisco Beltrão city. The crawler extracts specific information from these cars. Gemfile contains all required gems. Use bundler to install dependencies.
 
 ### Output
 
